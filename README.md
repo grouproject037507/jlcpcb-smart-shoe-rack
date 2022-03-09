@@ -8,6 +8,16 @@ Smart shoe rack bot features a camera used to detect the face and store the data
 
 An ESP32 camera is used which is used to recognize the image of the person visiting the public places and security is also provided to the shoes until he collects back his shoes from the smart shoe rack.
 
+
+
+
+
+
+
+
+
+
+
 https://jlcpcb.com/rel
  
 Components Required:
